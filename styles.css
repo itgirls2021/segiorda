@@ -1,6 +1,13 @@
 body {
-    color:midnightblue;
-    background-color:#ffe3ed;
+    color:#420728;
+    background-color:#ffebf8;
+    font-family:Georgia, Verdana, sans-serif;
 }
-h1 {color:#F76900}
-h2 {color:#87cdff}
+h1 {
+    color:#F76900
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    color:#ff7f69
+    font-family: 'Raleway', sans-serif;
+}
