@@ -13,3 +13,6 @@ nav {
 nav a {color:mediumvioletred;}
 nav {color:mediumvioletred;}
 nav a:hover {background-color:orange}
+div {
+    border: 1px orange
+}
