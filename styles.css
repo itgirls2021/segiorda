@@ -14,5 +14,8 @@ nav a {color:mediumvioletred;}
 nav {color:mediumvioletred;}
 nav a:hover {background-color:orange}
 div {
-    border: 1px orange
+    border: 1px orange;
+    margin: 5px;
+    padding: 5px;
+    background-color: peachpuff;
 }
