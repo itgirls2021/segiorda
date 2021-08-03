@@ -13,10 +13,3 @@ nav {
 nav a {color:mediumvioletred;}
 nav {color:mediumvioletred;}
 nav a:hover {background-color:orange}
-div {
-    border: 1px solid #ffb514;
-    margin: 30px;
-    padding: 50px;
-    background-color: #ffd8ad;
-    border-radius: 25px;
-}
