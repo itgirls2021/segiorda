@@ -5,7 +5,11 @@ body {
 }
 h1 {color:#F76900}
 h2 {color:#ff7f69}
-nav {background-color:lightyellow;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color:lightyellow;
+}
 nav a {color:mediumvioletred;}
 nav {color:mediumvioletred;}
 nav a:hover {background-color:orange}
